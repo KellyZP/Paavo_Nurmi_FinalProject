@@ -1,5 +1,5 @@
 # Group Name: Paavo Nurmi (Gavin Reinhard, Sarah Ouellette, Zach Kelly, & Jakob Fisher)
-# Email: ,,ouellesj@mail.uc.edu,fishe2jo@mail.uc.edu
+# Email: kellyzp@mail.uc.edu,reinhagn@mail.uc.edu,ouellesj@mail.uc.edu,fishe2jo@mail.uc.edu
 # Assignment Title: Final Project
 # Course: IS 4010
 # Semester/Year: Spring 2023

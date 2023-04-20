@@ -29,6 +29,6 @@ def decrypt_message(team_name,dict_path,encrypted_path):
 
 def display_picture():
     #Open image using Image module
-    im = Image.open("flowers.jpg") # THIS IS AN EXAMPLE ---- CHANGE TO ACUTAL PICTURE
+    im = Image.open("Picture.JPEG").rotate(-90) # THIS IS AN EXAMPLE ---- CHANGE TO ACUTAL PICTURE
     #Show actual Image
     im.show()
