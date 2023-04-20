@@ -12,3 +12,6 @@ from functionsPackage.functions import *
 
 decryptedData = decrypt_message('Paavo Nurmi','english.txt','EncryptedGroupHints Spring 2023 Section 001.json')
 print(decryptedData)
+
+display_picture()
+# the image will display through an app on your OS, you may get a prompt to choose preferred app

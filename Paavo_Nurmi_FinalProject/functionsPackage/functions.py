@@ -9,6 +9,7 @@
 # functions.py
 
 import json
+from PIL import Image
 
 def decrypt_message(team_name,dict_path,encrypted_path):
     with open(encrypted_path, 'r') as f:
@@ -25,4 +26,9 @@ def decrypt_message(team_name,dict_path,encrypted_path):
     for item in message:
         location += english[int(item) - 1] + ' '
     return location
-    
+
+def display_picture():
+    #Open image using Image module
+    im = Image.open("flowers.jpg") # THIS IS AN EXAMPLE ---- CHANGE TO ACUTAL PICTURE
+    #Show actual Image
+    im.show()
